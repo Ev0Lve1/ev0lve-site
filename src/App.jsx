@@ -27,8 +27,8 @@ const signals = [
 ]
 
 const contacts = [
-  { label: 'Email', value: 'your@email.com', href: 'mailto:your@email.com' },
-  { label: 'GitHub', value: 'github.com/yourname', href: 'https://github.com/yourname' },
+  { label: 'Email', value: '3227037881@qq.com', href: 'mailto:3227037881@qq.com' },
+  { label: 'GitHub', value: 'github.com/Ev0Lve1', href: 'https://github.com/Ev0Lve1' },
 ]
 
 export default function App() {
